@@ -3,4 +3,6 @@ Preservation is an important thing. Especially about this silly fangame that's b
 Repository is still incomplete. Everything listed here is ordered by the time we wrote them. Good luck finding the things you want to know or need.
 
 ## Library
-0 results found.
+> 1 results found.
+
+* [Blue Key Exploit/Dog Shrine Exploit](/dfconnected/glitches-n-exploits/blue-key.md)
