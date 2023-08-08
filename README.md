@@ -3,6 +3,9 @@ Preservation is an important thing. Especially about this silly fangame that's b
 Repository is still incomplete. Everything listed here is ordered by the time we wrote them. Good luck finding the things you want to know or need.
 
 ## Library
-> 1 results found.
+> 4 results found.
 
+* [DF Teams List](df/dfteam.md)
+* [DF Versions List](df/versions.md)
+* [Fanmade Documentations](dfconnected/fandocs.md)
 * [Blue Key Exploit/Dog Shrine Exploit](/dfconnected/glitches-n-exploits/blue-key.md)
